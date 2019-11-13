@@ -104,6 +104,6 @@ venv.bak/
 .mypy_cache/
 
 # my ignore
-*.weights
-*.h5
+**/*.weights
+**/*.h5
 
